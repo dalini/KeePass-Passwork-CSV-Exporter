@@ -16,7 +16,7 @@ Following data will be exported - as supported by the CSV importer of Passwork:
 
 # How to use
 ## Install the Plugin
-Copy the dll or pgxl file into the KeePass plugin folder, (re)start KeePass. For more details have a look at: https://keepass.info/help/v2/plugins.html.
+Copy the *PassworkExport.dll* or *PassworkExport-1.0.0-Source.plgx* file into the KeePass plugin folder, (re)start KeePass. For more details have a look at: https://keepass.info/help/v2/plugins.html.
 
 ## Export Data from KeePass
 *Security Advice:* Before you export your data into an unencrypted csv for transfer to another password manager, take some precautions like using a secured virtual storage (e.g. https://github.com/veracrypt/VeraCrypt) or similar and please don't forget to remove the data once imported, also from the 'Trash Bin'.
