@@ -79,5 +79,10 @@ Don't forget to delete (also in the Trash Bin!) after importing!
   ![image folders after import inside passwork](https://user-images.githubusercontent.com/849650/180644244-35346a83-4077-4bd8-9d32-c2ddde887478.png)
   ![image entries in one folder after import](https://user-images.githubusercontent.com/849650/180644296-2f8b7f1d-8385-48da-8f27-550211419318.png)
 
+# How to compile yourself
+1. Checkout the code
+2. Update the KeePass.exe Reference
+3. Build
+
 # Credits
 Based on the theVault CSV exporter for KeePass from Bruce NZ https://keepass.info/plugins.html#thevault - source code available via keepass site.
